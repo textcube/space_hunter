@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SpaceHunter.data.unityweb",
+"asmCodeUrl": "SpaceHunter.asm.code.unityweb",
+"asmMemoryUrl": "SpaceHunter.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceHunter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
